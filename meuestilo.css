@@ -1,0 +1,33 @@
+
+/*Todo o conteúdo de inspiração está no link de referencia: https://www.canva.com/design/DAGQF8B7tqg/jMwyHyzjLu_NeycwMCbCQQ/edit
+Se basear em todas as cores, fontes por lá*/
+
+.foto-perfil{     
+    border-radius: 100%;
+    max-width: 250px;
+    border: 100px 
+    
+    
+}
+
+h2 { background-color: #988E7B;
+                color:white; font-family: sans-serif;
+                text-align: center;
+                
+                
+}
+    
+
+
+body { 
+    background-color: #D9CFB0;
+
+
+}
+
+h1{ background-color: #271A11;
+    nav-down: auto;
+    text-align: center;
+    color: white; font-family: sans-serif;
+}
+
